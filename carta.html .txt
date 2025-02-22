@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carta para Você</title>
+    <style>
+        body {
+            background-color: #f9f3f3;
+            font-family: 'Courier New', Courier, monospace;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .carta {
+            background-color: #fff;
+            padding: 30px;
+            border: 2px solid #e5c1c1;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            max-width: 600px;
+            text-align: center;
+        }
+        h1 {
+            color: #d16b6b;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .assinatura {
+            margin-top: 30px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="carta">
+        <h1>Querido Fábiozinho, 💖</h1>
+        <p>
+            Olá, <br><br>
+           Aceitei seu desafio, e na verdade não faço a mínima ideia de isso vai dar certo KKKKKKK <br><br>
+           Já estou ficando tonta de tanta informação que tem nisso aqui. <br><br>
+</p> 
+Ontem, no dia 20 de fevereiro de 2025 saímos para ver um filme (que você detestou) KKKKKKK mas não é sobre seu péssimo gosto pra filmes que eu quero falar. 
+</p> 
+Mas dizer que foi uma noite maravilhosa pra mim, e que estar com você é muito bom, já disse que seu sorriso e seus olhos são lindos hoje? 
+        </p>
+        <p class="assinatura">
+            Com carinho, <br>
+            [Kethzinha 💙]
+        </p>
+    </div>
+</body>
+</html>
